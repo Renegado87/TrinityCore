@@ -5,3 +5,4 @@ Jueves 24/10/2013 05:27 pm
  create mode 100644 sql/updates/world/2013_10_24_01_world_errors.sql
  create mode 100644 sql/updates/world/2013_10_24_02_world_sai.sql
  create mode 100644 sql/updates/world/2013_10_24_03_world_sai.sql
+ create mode 100644 sql/updates/world/2013_10_25_00_world_update.sql
