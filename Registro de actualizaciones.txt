@@ -66,3 +66,9 @@ sql/updates/world/2013_11_04_00_world_creature_template.sql
 sql/updates/world/2013_11_04_01_world_misc.sql
 sql/updates/world/2013_11_04_02_world_misc.sql
 sql/updates/world/2013_11_04_03_world_misc.sql
+
+sql/updates/world/2013_11_04_04_world_misc.sql
+sql/updates/world/2013_11_04_05_world_misc.sql
+sql/updates/world/2013_11_04_06_world_misc.sql
+sql/updates/world/2013_11_04_07_world_sai.sql
+sql/updates/world/2013_11_04_08_world_sai.sql
