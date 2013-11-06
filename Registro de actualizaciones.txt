@@ -73,3 +73,5 @@ sql/updates/world/2013_11_04_06_world_misc.sql
 sql/updates/world/2013_11_04_07_world_sai.sql
 sql/updates/world/2013_11_04_08_world_sai.sql
 sql/updates/world/2013_11_05_00_world_sai.sql
+
+Listo hasta aqui ya estan metidos lso updates de la ultima fecha ------- cerrado. continuar abajo para la proxima actualizacion
