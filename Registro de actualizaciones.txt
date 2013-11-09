@@ -75,3 +75,15 @@ sql/updates/world/2013_11_04_08_world_sai.sql
 sql/updates/world/2013_11_05_00_world_sai.sql
 
 Listo hasta aqui ya estan metidos lso updates de la ultima fecha ------- cerrado. continuar abajo para la proxima actualizacion
+
+Viernes 08/11/13
+
+sql/updates/world/2013_11_06_00_world_creature_formations.sql
+sql/updates/world/2013_11_06_01_world_creature_formations.sql
+sql/updates/world/2013_11_07_00_world_creature_template.sql
+sql/updates/world/2013_11_07_01_world_smart_scripts.sql
+sql/updates/world/2013_11_07_02_world_creature_text.sql
+sql/updates/world/2013_11_07_03_world_creature_text.sql
+sql/updates/world/2013_11_07_04_world_creature_text.sql
+sql/updates/world/2013_11_07_05_world_misc.sql
+sql/updates/world/2013_11_08_00_world_misc.sql
