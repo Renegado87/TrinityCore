@@ -87,3 +87,5 @@ sql/updates/world/2013_11_07_03_world_creature_text.sql
 sql/updates/world/2013_11_07_04_world_creature_text.sql
 sql/updates/world/2013_11_07_05_world_misc.sql
 sql/updates/world/2013_11_08_00_world_misc.sql
+
+sql/updates/world/2013_11_10_00_world_misc.sql
