@@ -89,3 +89,14 @@ sql/updates/world/2013_11_07_05_world_misc.sql
 sql/updates/world/2013_11_08_00_world_misc.sql
 
 sql/updates/world/2013_11_10_00_world_misc.sql
+
+sql/updates/auth/2013_11_11_00_auth_logs.sql
+sql/updates/world/2013_11_10_01_world_misc.sql
+sql/updates/world/2013_11_10_02_world_misc.sql
+sql/updates/world/2013_11_10_03_world_sai.sql
+sql/updates/world/2013_11_10_04_world_waypoints.sql
+sql/updates/world/2013_11_10_05_world_creature_addon.sql
+sql/updates/world/2013_11_10_06_world_misc.sql
+sql/updates/world/2013_11_10_07_world_conditions,sql
+
+ 
