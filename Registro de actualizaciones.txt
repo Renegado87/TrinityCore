@@ -99,4 +99,5 @@ sql/updates/world/2013_11_10_05_world_creature_addon.sql
 sql/updates/world/2013_11_10_06_world_misc.sql
 sql/updates/world/2013_11_10_07_world_conditions,sql
 
+sql/updates/world/{2013_11_10_07_world_conditions,sql => 2013_11_10_07_world_conditions.sql} (100%)
  
