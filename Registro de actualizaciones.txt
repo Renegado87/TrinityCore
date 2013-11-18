@@ -108,3 +108,22 @@ sql/updates/world/2013_11_13_03_world_sai.sql
 sql/updates/world/2013_11_13_04_world_sai.sql
 sql/updates/world/2013_11_13_05_world_sai.sql
  
+rename sql/updates/world/{2013_10_01_00_misc.sql => 2013_10_01_00_world_misc.sql} (100%)
+sql/updates/world/2013_11_13_06_world_sai.sql
+sql/updates/world/2013_11_13_07_world_sai.sql
+sql/updates/world/2013_11_13_08_world_sai.sql
+sql/updates/world/2013_11_15_00_world_misc.sql
+sql/updates/world/2013_11_15_01_world_sai.sql
+sql/updates/world/2013_11_15_02_world_sai.sql
+sql/updates/world/2013_11_15_03_world_sai.sql
+sql/updates/world/2013_11_15_04_world_sai.sql
+sql/updates/world/2013_11_15_05_world_sai.sql
+sql/updates/world/2013_11_15_06_world_sai.sql
+sql/updates/world/2013_11_15_07_world_sai.sql
+sql/updates/world/2013_11_15_08_world_sai.sql
+sql/updates/world/2013_11_15_09_world_sai.sql
+sql/updates/world/2013_11_15_10_world_sai.sql
+sql/updates/world/2013_11_16_0_world_sai.sql
+sql/updates/world/2013_11_16_1_world_sai.sql
+sql/updates/world/2013_11_16_2_world_sai.sql
+sql/updates/world/2013_11_17_0_world_sai.sql
