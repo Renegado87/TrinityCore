@@ -127,3 +127,6 @@ sql/updates/world/2013_11_16_0_world_sai.sql
 sql/updates/world/2013_11_16_1_world_sai.sql
 sql/updates/world/2013_11_16_2_world_sai.sql
 sql/updates/world/2013_11_17_0_world_sai.sql
+
+sql/updates/world/2013_11_23_0_world_creature_text.sql
+sql/updates/world/2013_11_23_1_world_sai.sql
