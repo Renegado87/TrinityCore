@@ -130,3 +130,22 @@ sql/updates/world/2013_11_17_0_world_sai.sql
 
 sql/updates/world/2013_11_23_0_world_creature_text.sql
 sql/updates/world/2013_11_23_1_world_sai.sql
+
+sql/updates/world/2013_11_23_02_world_misc.sql
+sql/updates/world/2013_11_24_00_world_spell_script_names.sql
+sql/updates/world/2013_11_24_01_world_oculus.sql
+sql/updates/world/2013_11_24_02_world_sai.sql
+sql/updates/world/2013_11_25_00_world_item_loot_template.sql
+sql/updates/world/2013_11_27_00_world_areatrigger_tavern.sql
+sql/updates/world/2013_11_27_01_world_sai.sql
+sql/updates/world/2013_11_27_02_world_sai.sql
+sql/updates/world/2013_11_27_03_world_sai.sql
+sql/updates/world/2013_11_27_04_world_sai.sql
+sql/updates/world/2013_11_27_05_world_creature.sql
+sql/updates/world/2013_11_27_06_world_sai.sql
+sql/updates/world/2013_11_27_07_world_sai.sql
+sql/updates/world/2013_11_27_08_world_sai.sql
+sql/updates/world/2013_11_27_09_world_sai.sql
+sql/updates/world/2013_11_28_00_world_misc.sql
+sql/updates/world/2013_11_28_01_world_creature_template.sql
+
