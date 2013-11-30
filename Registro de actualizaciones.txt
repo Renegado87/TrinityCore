@@ -149,3 +149,13 @@ sql/updates/world/2013_11_27_09_world_sai.sql
 sql/updates/world/2013_11_28_00_world_misc.sql
 sql/updates/world/2013_11_28_01_world_creature_template.sql
 
+
+sql/updates/world/2013_11_28_02_world_misc.sql
+sql/updates/world/2013_11_29_00_world_sai.sql
+sql/updates/world/2013_11_29_01_world_sai.sql
+sql/updates/world/2013_11_29_02_world_sai.sql
+sql/updates/world/2013_11_29_03_world_sai.sql
+sql/updates/world/2013_11_29_04_world_sai.sql
+sql/updates/world/2013_11_29_05_world_sai.sql
+sql/updates/world/2013_11_29_06_world_sai.sql
+
